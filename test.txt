@@ -11,4 +11,5 @@ Some 1.1 code.
 This is new logic scheduled for 1.1
 Features for 2.0
 More Features for 2.0
+Bug fix in 1.1 logic, should end up in 1.2 and 2.0
 }
