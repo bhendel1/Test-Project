@@ -13,4 +13,5 @@ Features for 2.0
 More Features for 2.0
 Bug fix in 1.1 logic, should end up in 1.2 and 2.0
 Someone fixed a bug!
+Added line.
 }
